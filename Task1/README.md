@@ -1,7 +1,8 @@
 ## Задание 1
 
 ### Спроектируйте архитектуру системы через год.
-Составьте диаграмму контейнеров в модели C4.
+[Диаграмма контейнеров в модели C4](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task1/container.drawio)
+![Диаграмма контейнеров в модели C4](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task1/container.drawio.svg)
 
 ### Опишите проблемные места.
 Сделайте это в удобной для вас форме. Например, можете использовать список или таблицу.
