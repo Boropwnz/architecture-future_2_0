@@ -20,7 +20,7 @@
 
 Ниже приведем примеры типовых действий с данными в основных доменах.
 
-[Data Flow Diagram](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task2/DFD.drawio)
+[Data Flow Diagram:](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task2/DFD.drawio)
 ![Data Flow Diagram](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task2/DFD.drawio.svg)
 
 ### Аргументируйте логику разделения на домены.
