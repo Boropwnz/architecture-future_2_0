@@ -7,8 +7,11 @@
 
 
 ### Составьте роадмап.
-Роадмап, этапы и результаты, ответственные команды и ресурсы:
 
+[Роадмап и команды:](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task3/roadmap.drawio)
+![Роадмап и команды](https://github.com/Boropwnz/architecture-future_2_0/blob/future/Task3/roadmap.drawio.svg)
+
+Этапы и результаты:
 
 ### Обоснуйте изменения.
 
